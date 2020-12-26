@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "Procedimientos_de_inspecciones_de_calidad",
+    "title": "1. Procedimientos de inspecciones de calidad",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimientos_de_inspecciones_de_calidad",
+        "title": "1.1. Procedimiento de inspección de calidad con muestreo según normatividad",
+        "anchor": "11"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimientos_de_inspecciones_de_calidad",
+        "title": "1.2. Procedimiento de inspección de calidad con muestreo del lote por variables",
+        "anchor": "12"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "Procedimientos_de_inspecciones_de_calidad",
+        "title": "1.3. Procedimiento de inspección de calidad con muestreo del lote por atributos",
+        "anchor": "13"
+      }       
+    ]   
+  }
+]

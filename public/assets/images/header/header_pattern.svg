@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1984" height="740.767" viewBox="0 0 1984 740.767">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.517" y1="0.385" x2="0.062" y2="0.386" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#15579f"/>
+      <stop offset="0.349" stop-color="#58a5f8"/>
+      <stop offset="0.644" stop-color="#8fc1c1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.039"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_38621" data-name="Grupo 38621" transform="translate(5601 2670.629)">
+    <path id="Trazado_86053" data-name="Trazado 86053" d="M0,0H1792.546V740.138H0Z" transform="translate(-3808.454 -1930.491) rotate(180)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_568" data-name="Rectángulo 568" width="1981" height="15.138" transform="translate(-5598 -1945)" fill="#ffc74a"/>
+    <g id="Grupo_38620" data-name="Grupo 38620" transform="translate(-5547.5 -2654.637)">
+      <g id="Grupo_37939" data-name="Grupo 37939" transform="translate(0 629.137)" opacity="0.07">
+        <path id="Polígono_1" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_37942" data-name="Grupo 37942" transform="translate(0 340.474)" opacity="0.07">
+        <path id="Polígono_1-2" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4-2" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2-2" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5-2" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8-2" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_3" data-name="Polígono 3" d="M29,0,58,49H0Z" transform="translate(553 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6-2" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7-2" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_37944" data-name="Grupo 37944" transform="translate(0 120.893)" opacity="0.07">
+        <path id="Polígono_1-3" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4-3" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2-3" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5-3" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8-3" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_3-2" data-name="Polígono 3" d="M29,0,58,49H0Z" transform="translate(553 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6-3" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7-3" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_37940" data-name="Grupo 37940" transform="translate(117 508.244)" opacity="0.07">
+        <path id="Polígono_1-4" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4-4" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2-4" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5-4" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8-4" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_3-3" data-name="Polígono 3" d="M29,0,58,49H0Z" transform="translate(553 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6-4" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7-4" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_37941" data-name="Grupo 37941" transform="translate(117 219.581)" opacity="0.07">
+        <path id="Polígono_1-5" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4-5" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2-5" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5-5" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8-5" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_3-4" data-name="Polígono 3" d="M29,0,58,49H0Z" transform="translate(553 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6-5" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7-5" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+      <g id="Grupo_37943" data-name="Grupo 37943" transform="translate(117 0)" opacity="0.07">
+        <path id="Polígono_1-6" data-name="Polígono 1" d="M29,0,58,49H0Z" transform="translate(49 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_4-6" data-name="Polígono 4" d="M29,0,58,49H0Z" transform="translate(805 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_2-6" data-name="Polígono 2" d="M29,0,58,49H0Z" transform="translate(301 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_5-6" data-name="Polígono 5" d="M29,0,58,49H0Z" transform="translate(1057 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_8-6" data-name="Polígono 8" d="M29,0,58,49H0Z" transform="translate(1561) rotate(90)" fill="#fff"/>
+        <path id="Polígono_3-5" data-name="Polígono 3" d="M29,0,58,49H0Z" transform="translate(553 0) rotate(90)" fill="#fff"/>
+        <path id="Polígono_6-6" data-name="Polígono 6" d="M29,0,58,49H0Z" transform="translate(1309) rotate(90)" fill="#fff"/>
+        <path id="Polígono_7-6" data-name="Polígono 7" d="M29,0,58,49H0Z" transform="translate(1813) rotate(90)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
