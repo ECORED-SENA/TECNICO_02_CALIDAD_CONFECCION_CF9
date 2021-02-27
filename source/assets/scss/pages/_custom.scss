@@ -323,7 +323,7 @@ ol.lista > li.mas:before {
     &__icon {
     position: relative;
     width: 15px;
-    top: -10%;
+    top: -6px;
     margin-right: 0.65rem;
     img {
     width: 15px;
@@ -338,22 +338,20 @@ ol.lista > li.mas:before {
     }
     }
     }
-    .img-a {
-        display: block;
-        margin: auto;
-      }
-    .caja-azul{
-        background: rgb(255,255,255);
-        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(111,216,216,0.469625350140056) 100%);
-        border-radius: 0px 0px 15px 15px;
-        margin-top: -10px;
-        position: relative;
-        p{
-            padding: 10px;
-        }
-    }
-    .color-rosa{
-        background: rgb(255,255,255);
-        background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(210,104,204,0.15309873949579833) 100%);
-    }
-    
+.img-a {
+    display: block;
+    margin: auto;
+}
+
+.caja-azul{
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(111,216,216,0.469625350140056) 100%);
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -10px;
+    position: relative;
+    padding: 20px;
+    margin: 0px 20px;
+}
+
+.color-rosa{
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(210,104,204,0.15309873949579833) 100%);
+}
